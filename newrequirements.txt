@@ -1,0 +1,2 @@
+create index page with login details
+create home page -describe about company 
